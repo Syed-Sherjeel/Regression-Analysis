@@ -12,7 +12,8 @@ Now your setup is ready for running this project.
 Our main code in written in a well documented notebook that explains everything perform data acquistion to data preprocessing and eventually data modelling with various contraints.
 However here are some usage examples,
 ```
-will be added later
+model.predict(X)
+#Where X is nd array containing features of House
 ```
 where X_train is a set of features on which our data will make predictions in following order.
 # License
